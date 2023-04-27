@@ -11,4 +11,4 @@ The projects are small program organised in subfolder.
 
 **souce** -> https://hackr.io/blog/cpp-projects.
 
-The user bets some money on the choices of a number between 0 and 10.
+The user bets some money on the choices of a number between 1 and 10.
